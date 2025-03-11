@@ -17,12 +17,15 @@ main{
   min-height: 100vh;
     border: 5px;
 } 
+
+/* seccion  */
  #perfil{
     display: flex;
     padding: 10px;
     justify-content: space-between;
     align-items: center;
     border-bottom:1.5px solid #ccc ; 
+    align-items: center;
  }
 .Maria {
     display: flex;
